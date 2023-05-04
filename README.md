@@ -129,6 +129,97 @@ skills and career goals.  They also have a right to serve as an integral member 
 Self organising ARTs do not fund themselves or define their own mission. That remains a management responsibility,
 as it is an element of implementation of a  strategy.
 
+## Becoming a better Boss
+
+There are no quick “hacks” to being a good leader, but there are some easy steps you can take as early as today on your path to leadership excellence.
+
+### See the Human
+“Know Your Marines and look out for their welfare” is an official Marine Corps Leadership principle because knowing someone is critical for leading them.
+
+It’s easy to fall into the mode of seeing your team as a single unit and forgetting it’s made up of very different parts.
+
+You don’t need to be a rapid social chameleon to address different personalities and you must stay authentic to who you are — but you can adapt your ways to effectively address the unique personality standing in front of you.
+
+Even a simple “how are you doing?” then truly caring about the answer goes a long way.
+
+This starts by always looking at people as a unique individual first.
+
+### Spare the Messenger
+
+I’ve had some bosses that people would hide things from as much as possible just to make our work environment less toxic.
+
+If someone on your team always regrets bringing you problems, they’ll stop bringing you problems.
+
+Be patient with the messenger of bad news or challenges. Thank them for bringing it to your attention. Practice emotional restraint when the tides of emotions rise under your collar.
+
+Because if your people get nothing but wrath and headaches when they share challenges with you, they’ll start hiding them.
+
+“The day soldiers stop bringing you their problems is the day you have stopped leading them. They have either lost confidence that you can help them or concluded that you do not care. Either case is a failure of leadership.” — General Colin Powell
+
+
+### Get Out of the Way
+
+My favorite piece of leadership wisdom was shared by my old boss when he retired:
+
+“Get out of your people’s way.”
+
+
+I wish this was carved in stone over the entrance to every business school. People simply want to be able to operate without you being an obstacle.
+
+Instead, clear an obstacle for them today, even if that obstacle has been you.
+
+Of course, you must guide and direct and ensure the right “product” is seeing the light of day, and some people do need extra attention, but always tip the balance to less control over more if you want a happier human on your team.
+
+“Go for it! Let me know if you need anything!” is like ear candy to any employee who cares about their work.
+
+### Get Your Hands Dirty (as a Helper)
+
+I love the story about the old man who jumped off his horse to help American Revolutionary War soldiers build their defenses. He jumped in and helped in the hard and dirty work right alongside them. They were just glad the old man was helping.
+
+Above them, a Corporal barked orders to hurry up.
+
+When they were done, the old man thanked the soldiers for their hard work and walked up to the Corporal and said:
+
+‘The next time your rank prevents you from supporting your own men you should notify top command — and I will provide a more permanent solution.’
+
+The Corporal turned white and saluted as he realized he had been speaking to none other than the Commander of the entire Continental Army…General George Washington.
+
+A leader should never be too important to be a silent laborer of “dirty work,” and a follower of those they lead, when the team simply needs more hands.
+
+### Prune Something
+
+You know that little problem you’ve been putting off resolving?
+
+Just do it. Get it off your desk before it grows.
+
+Like weeds, most problems or issues don’t die on their own, they just keep growing in different directions if you don’t cut them off at the root.
+
+Prune problems early so they don’t overtake your environment someday.
+
+An old farmer I used to know used to joke “don’t do today what you can put off until tomorrow.” Who knows, maybe he had it all figured out — or he was a farmer of weeds.
+
+But in my experience, it’s always best to nip problems in the bud.
+
+### Project Positive
+
+Anyone in a leadership role has an emotional effect on those they lead.
+
+‘If Momma ain’t happy, ain’t nobody happy’ is now backed by science.
+
+You always have a choice in the attitude and intensity of the emotions you display and there’s usually a better way than just letting your human nature take over.
+
+Self-control often enables you to harness emotion into something positive and productive rather than negative and destructive.
+
+### Take the Afternoon Off (Work life ballance)
+
+Taking time for you shows the team it’s OK for them to take time for themselves.
+
+This is better for them than dealing with the unspoken pressure put on them when you work all night and all weekend.
+
+Plus, they could probably use a break from you even if you are a good boss!
+
+So set the example of self-care by bugging out today! 
+
 
 ## Further reading:
 
