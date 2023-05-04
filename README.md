@@ -129,6 +129,15 @@ skills and career goals.  They also have a right to serve as an integral member 
 Self organising ARTs do not fund themselves or define their own mission. That remains a management responsibility,
 as it is an element of implementation of a  strategy.
 
+## DORA (Digital Operational Resilience Act)
+
+DORA ensures a consistent provision of services across the entire value chain by introducing an end-to-end holistic framework for effective Risk management, ICT and cyber security operational capabilities, and Third Party management.
+
+It aims to ensure that all participants in the financial system have the necessary safeguards in place to mitigate cyber-attacks and other risks. The legislation will require firms to ensure that they can withstand all types of ICT-related disruptions and threats.
+
+The legislation is designed to improve the cybersecurity and operational resiliency of the financial services sector. It complements existing laws such as the Network and Information Security Directive (NISD) and the General Data Protection Regulation (GDPR).
+
+
 ## Becoming a better Boss
 
 There are no quick “hacks” to being a good leader, but there are some easy steps you can take as early as today on your path to leadership excellence.
