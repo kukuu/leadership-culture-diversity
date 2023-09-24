@@ -24,7 +24,7 @@ Leaders can educate employees on the company's organisational culture through th
 
 Accountability in the workplace is a major influencer of organisational structure. Leaders often make the rules and policies that guide a company, but holding employees accountable for their actions keeps them responsible and able to perform their tasks effectively. Good leaders build a culture of accountability when they clearly outline the responsibilities of employees and the standards by which they measure their success. Doing this gives employees a clear picture of the results the employers want them to achieve and motivates them to achieve and even exceed these expectations.
 
-### Helps employers understand their roles and skills:
+### Helps employees understand their roles and skills:
 
 Outstanding leaders help employees to understand their assigned tasks and design a working strategy that allows them to execute their duties effectively. They help employees broaden their knowledge of their responsibilities and help to improve their skill sets. This may require additional training of team members in a particular department or cross-training of employees from different departments to increase their knowledge and strengthen their bonds.
 
