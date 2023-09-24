@@ -124,6 +124,8 @@ SAFe emphasizes the values of autonomous, self-organisng, cross-functional teams
 This supports a leaner management infrastructure, with more empowered individuals and teams and faster, 
 local decision making. Taditional, day-to-day employee instructions and activity  direction is no longer required.
 
+It is also about managing a balancing act of delegation and accountability to be efficient with team management.
+
 However, all employees  still need someone to assist them with career development, set and manage expectations
 and provide the active coaching they need to advance their technical, functional, individual and team 
 skills and career goals.  They also have a right to serve as an integral member of a high performing team.
