@@ -75,6 +75,8 @@ A good leader does not overlook mistakes but acknowledges them while offering di
 
 The best leaders find ways to motivate their team members and make their contributions feel valued. This includes praising and complimenting them, trusting in them and actively involving them in company decisions. Employees who work in this kind of atmosphere often feel more motivated to put in their best towards the company's growth and success.
 
+https://github.com/kukuu/AGILITY/blob/master/ManagementStyles-InfluencingSkills.md
+
 ## Diversity
 
 By Diversity, we mean empowering people by respecting and appreciating what makes them different, in terms of age, gender, ethnicity, religion, disability, sexual orientation, education, and national origin. 
