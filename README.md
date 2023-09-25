@@ -1,20 +1,26 @@
 # Leadership, Culture and Diversity
 
-## Servant Leadership
+### Who is a Servant Leader
 
-A Servant Leader is one who helps their teams to perform at their best by ensuring that the business outcomes are clearly understood, allowing the teams to define how they deliver those outcomes within the set guidelines. A Servant Leader should support their  teams by unblocking issues and offering strategic advice and guidance and  balancing delegation and accountability.
+A Servant Leader is one who helps their teams to perform at their best by ensuring that the business outcomes are clearly understood, allowing the teams to define how they deliver those outcomes within the set guidelines. A Servant Leader should support their teams by unblocking issues and offering strategic advice and guidance and balancing delegation and accountability.
 
-## Leadership and Culture
+### What is the role of Leadership and Culture
 
-Leadership and culture in organisations refer to the role leadership plays in an organisation's culture. It refers to how leaders interact with one another and their team members. It's the way leaders operate, communicate, and make decisions. And it's about the everyday working environment: their behaviors, interactions, beliefs, and values.
+Leadership and Culture in organisations refer to the role leadership plays in shaping an organisation's culture.
 
-No matter how great a company's organisational culture may be, its objectives and goals may remain unachieved without the influence of good leadership. A leader is anyone who has the authority or ability to influence and motivate others, irrespective of their title. They embody and reinforce the company's visions and set the rules with which the company work.
+### What is an Organisation's Culture
 
-An organisation's culture comes from the values and practices that guide the decisions of the company. It's a collection of a company's objectives and mission that guides the actions and behaviours of the employer and their employees. Leadership and culture in organisations promote a positive atmosphere in the workplace, improves the performance of employees and can help the general success of the business.
+It is the values and practices that guide the decisions of the company 
 
-Achieving a company's goals and objectives depends on its leadership and organisational culture. The presence of strong leadership helps employees carry out different activities efficiently and effectively. Understanding how leadership affects organisational culture can influence your company's productivity and how you collaborate with your team members. 
+Furthermore, It's a collection of a company's objectives and mission that guides the actions and behaviours of the employer and their employees.
 
-It's also the responsibility of leaders to define the company's ethics and beliefs while teaching the employees how to live by these values. Ethical leaders promote a culture of trust, integrity, honesty and fairness. They work to establish the organisation's core values and show employees what the management expects of them. People in leadership roles influence the organisational culture of the company, positively or negatively.
+### What is the result of strong Leadership?
+
+The presence of strong leadership helps employees carry out different activities efficiently and effectively.
+
+### Who defines ethics and beliefs?
+
+It's also the responsibility of leaders to define the company's ethics and beliefs while teaching the employees how to live by these values. Ethical leaders promote a culture of trust, integrity, honesty and fairness. They work to establish the organisation's core values and show employees what the management expects of them.
 
 ## How does leadership influence organisational culture
 
