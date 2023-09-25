@@ -1,4 +1,4 @@
-# Summary, Leadership, Culture and Diversity
+# Summary: Leadership, Culture and Diversity
 
 ### Who is a Servant Leader
 A Servant Leader is one who helps their teams to perform at their best by ensuring that the business outcomes are clearly understood, allowing the teams to define how they deliver those outcomes within the set guidelines. A Servant Leader should support their teams by unblocking issues and offering strategic advice and guidance and balancing delegation and accountability.
