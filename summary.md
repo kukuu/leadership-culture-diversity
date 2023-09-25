@@ -271,3 +271,6 @@ Plus, they could probably use a break from you even if you are a good boss!
 
 So set the example of self-care by bugging out today!
 
+## Traditional Feature v Outcome Based Product Roadmap:
+
+- https://bootcamp.uxdesign.cc/how-to-create-an-outcome-oriented-product-roadmap-using-an-opportunity-solution-tree-d2cd5c665d04
