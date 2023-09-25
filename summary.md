@@ -105,13 +105,13 @@ The goal is to influence others, not manipulate them. Effective, ethical leaders
 
 #### How to influence
 - Positive Self promotion - Gravitas
-- 
+  
 In the hands of an astute leader, self-promotion isn’t just a tool to advance one’s own career. It can provide visibility and opportunities for their direct reports, generate team and organizational pride, and make capabilities and ideas more visible across the organization — ultimately enhancing collaboration.
 
 Two self-promotion strategies stand out. First, leaders who are good at this skill find ways to gather an audience. They may ask more people to be part of a team, initiative, or problem-solving process. Second, self-promoters find ways to “put on a show.” Leaders find ways to step into the spotlight at selected events and meetings, sometimes creating their own events.
 
 - Networking
-- 
+  
 Leaders who are skilled at influencing others recognize and cultivate the power of networks. Organizations are increasingly dynamic; they morph in size and shape over time. Influential leaders recognize that their personal networks must also be dynamic, and they continually grow and strengthen their networks. They are also strategic about choosing how and when to tap into this network.
 
 - Building and Maintaining a Foundation of Trust
