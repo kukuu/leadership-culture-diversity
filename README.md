@@ -24,7 +24,7 @@ It's also the responsibility of leaders to define the company's ethics and belie
 
 ## How does leadership influence organisational culture
 
-Leaders can educate employees on the company's organisational culture through their interactions. Both action and inaction go a long way in showing employees which actions and behaviour are acceptable or unacceptable in the company. Below are influences of leadership on culture in organisations:
+Leaders can educate employees on the company's organisational culture through their interactions. Both their action and inaction go a long way in showing employees which actions and behaviour are acceptable or unacceptable in the company. Below are influences of leadership on culture in organisations:
 
 ### Reinforces accountability:
 
