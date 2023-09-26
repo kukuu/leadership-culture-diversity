@@ -20,7 +20,7 @@ The presence of strong leadership helps employees carry out different activities
 
 ### Who defines ethics and beliefs?
 
-It's also the responsibility of leaders to define the company's ethics and beliefs while teaching the employees how to live by these values. Ethical leaders promote a culture of trust, integrity, honesty and fairness. They work to establish the organisation's core values and show employees what the management expects of them.
+It's also the responsibility of leaders to define the company's ethics and beliefs while teaching the employees how to live by these values. Ethical leaders promote a culture of trust (through active listening, confidentiality and taking interest in what other people do), integrity, honesty and fairness. They work to establish the organisation's core values and show employees what the management expects of them.
 
 ## How does leadership influence organisational culture
 
