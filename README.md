@@ -147,7 +147,7 @@ as it is an element of implementation of a  strategy.
 
 ## The Development or Engineering Manager
 The Development or Engineering Manager exhibits the principles and practices of Lean-Agile servant leadership. 
-Coaching Scrum teams to deliver effectively, at a sustainable pace, and as Advisor
+Coaching Scrum teams to deliver effectively and efficiently at a sustainable pace, and as Advisor
 to use agile engineering practices such as automated builds and TDD. 
 
 Further, the Manager  takes responsibility for eliminating impediments, actively evolves the systems
