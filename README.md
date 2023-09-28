@@ -78,8 +78,10 @@ When employees feel satisfied with their work, they become inspired to devote th
 
 ### Leading by example:
 
-Quality leaders lead by example. They understand that employees are looking up to them to know the acceptable ways of doing things in the organisation such as fulfilling their responsibilities, reacting to situations and handling projects. Therefore, effective leaders not only create company policies and rules but also live by them.
-A good leader does not overlook mistakes but acknowledges them while offering directions and ways to improve. By working to embody the company's values, a good leader's behaviour and work ethic stand as models of what the company represents and stands for. With time, this begins to influence and define the behaviour of the workforce as they realise the correlation between the success of the business and their attitude.
+Quality and good leaders lead by example, and do not overlook mistakes but acknowledges them while offering directions and ways to improve. By working to embody the company's values, a good leader's behaviour and work ethic stand as models of what the company represents and stands for. With time, this begins to influence and define the behaviour of the workforce as they realise the correlation between the success of the business and their attitude.
+
+Good leaders understand that employees are looking up to them to know the acceptable ways of doing things in the organisation such as fulfilling their responsibilities, reacting to situations and handling projects. Therefore, effective leaders not only create company policies and rules but also live by them.
+
 
 ### Boosts employee morale:
 
