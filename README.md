@@ -4,7 +4,7 @@
 
 A Servant Leader is one who helps their teams to perform at their best by ensuring that the business outcomes are clearly understood, allowing the teams to define how they deliver those outcomes within the set guidelines. A Servant Leader should support their teams by unblocking issues and offering strategic advice, guidance, balancing delegation and accountability.
 
-### What is the role of Leadership and Culture
+### What is the role of Leadership and Culture 
 
 Leadership and Culture in organisations refer to the role leadership plays in shaping an organisation's culture.
 
