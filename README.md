@@ -61,8 +61,8 @@ For example, you can organise monthly or yearly skill enhancement programmes for
 
 ### Fosters a culture of recognition and appreciation:
 
-As a leader, you can promote a culture of recognition by encouraging and rewarding employees who work effectively and efficiently.
-You can also recognise and appreciate an employee for their unique contributions towards a project and encourage other team members to do likewise. Employers who work in this kind of environment feel more fulfilled and motivated to carry out their tasks.
+As a leader, you can promote a culture of recognition by encouraging and rewarding employees who work effectively and efficiently (E/E).
+You can also recognise and appreciate an employee for their unique contributions towards a project and encourage other team members to do likewise. Employees  who work in this kind of environment feel more fulfilled and motivated to carry out their tasks.
 
 ### Defines and reveals the company's core values:
 
