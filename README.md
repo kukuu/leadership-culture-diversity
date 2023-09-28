@@ -145,6 +145,23 @@ skills and career goals.  They also have a right to serve as an integral member 
 Self organising ARTs do not fund themselves or define their own mission. That remains a management responsibility,
 as it is an element of implementation of a  strategy.
 
+## The Development or Engineering Manager
+The Development or Engineering Manager exhibits the principles and practices of Lean-Agile servant leadership. 
+Coaching Scrum teams to deliver effectively, at a sustainable pace, and as Advisor
+to use agile engineering practices such as automated builds and TDD. 
+
+Further, the Manager  takes responsibility for eliminating impediments, actively evolves the systems
+in which all knowledge workers operate, takes subtle control in assigning individuals to teams, 
+participates in defining and administering compensation, benefilts and promotions, 
+evaluate performance, including team input and corrective actions, remains close 
+enough to the team to add value and to be competent, input into training and development strategy,
+organising training and themed dev community months/internal developer conferences.
+
+Other duties will include involved in recruitment and retention strategy, on-boarding new developers, 
+co-facilitating development community of practice, appraisals & Performance Management, 
+organising recognition awards and socials, and finally stays far away to let them problem-solve on their own.
+
+
 ## DORA (Digital Operational Resilience Act)
 
 DORA ensures a consistent provision of services across the entire value chain by introducing an end-to-end holistic framework for effective Risk management, ICT and cyber security operational capabilities, and Third Party management.
