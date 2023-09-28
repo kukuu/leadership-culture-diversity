@@ -70,7 +70,9 @@ Effective leadership often involves working hard to share and teach team members
 
 ### Promotes job satisfaction:
 
-When employees feel satisfied with their work, they become inspired to devote their time and skills towards the success of the business. Employees feel satisfied in jobs where they feel comfortable and their employers appreciate them. Different factors may influence an employee's job satisfaction, such as compensation, company's core values, promotion, quality of leadership, work environment and motivation. Effective leadership evaluates these factors to determine how they're able to satisfy the needs of their team members. 
+Different factors may influence an employee's job satisfaction, such as compensation, company's core values, promotion, quality of leadership, work environment and motivation. Effective leadership evaluates these factors to determine how they're able to satisfy the needs of their team members. 
+
+When employees feel satisfied with their work, they become inspired to devote their time and skills towards the success of the business. Employees feel satisfied in jobs where they feel comfortable and their employers appreciate them.
 
  - Also see Fosters effective communication: (above)
 
