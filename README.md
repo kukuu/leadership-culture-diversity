@@ -150,7 +150,7 @@ The Development or Engineering Manager exhibits the principles and practices of 
 Coaching Scrum teams to deliver effectively and efficiently at a sustainable pace, and as Advisor
 to use agile engineering practices such as automated builds and TDD. 
 
-Further, the Manager  takes responsibility for eliminating impediments, actively evolves the systems
+Further, the Manager  takes responsibility for eliminating/unblocking impediments, actively evolves the systems
 in which all knowledge workers operate, takes subtle control in assigning individuals to teams, 
 participates in defining and administering compensation, benefilts and promotions, 
 evaluate performance, including team input and corrective actions, remains close 
