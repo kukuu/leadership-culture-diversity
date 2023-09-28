@@ -57,7 +57,7 @@ An organisation's vision often determines the company's future. Leaders create t
 
 Good leaders are always in the habit of sharing any information and knowledge that can promote the growth of their team members. They understand that employees need the necessary tools to work effectively. For employees to benefit the company, leadership needs to communicate and provide these tools effectively.
 
-For example, you can organise monthly or yearly skill enhancement programmes for your team members aimed at enhancing their knowledge and increasing their technical capabilities. eg -Engineering Council forums, attending meet ups , conferences and networking.
+For example, you can organise monthly or yearly skill enhancement programmes (SEP), Away Days for your team members aimed at enhancing their knowledge and increasing their technical capabilities. eg -Engineering Council forums, attending meet ups , conferences and networking.
 
 ### Fosters a culture of recognition and appreciation:
 
